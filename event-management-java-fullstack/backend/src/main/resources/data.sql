@@ -1,0 +1,1 @@
+-- NOTE: passwords inserted here should be bcrypt-hashed. For demo we create users via signup endpoint.
